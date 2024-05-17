@@ -13,7 +13,7 @@
 'use strict';
 
 const STORAGE_GUID = '8efccd2b-73a5-4977-8099-985fc708c422';
-const LOCALIZED_LANG_NAME = "Polski";
+const LOCALIZED_LANG_NAME = "Türkçe";
 const USE_LOCALIZED_TRANSLATION_STATUS_TEMPLATE = true;
 
 const LANG_SUBTAGS = [
@@ -52,6 +52,7 @@ const LANG_LOCALIZED_NAMES = {
     "Lithuanian": "Lietuvių",
     "Norwegian (Bokmål)": "Norsk Bokmål",
     "Polish": "Polski",
+    "Turkish": "Türkçe",
     "Portuguese": "Português",
     "Romanian": "Română"
 }
